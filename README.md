@@ -41,3 +41,5 @@ The software has been tested using the Junit 5 unit testing framework, which was
 
 * <a href="https://github.com/mehulgithub-1903/TripPy/blob/master/LLD.pdf"> **Low Level Design** </a>
 * <a href="https://github.com/mehulgithub-1903/TripPy/blob/master/Project%20Report.pdf"> **Project Report** </a>
+## MindMapDiagram
+   ![Untitled(3)](https://user-images.githubusercontent.com/64722605/187164455-f790ac55-05fd-4040-a5ab-0c97a8ce15ec.jpg)
